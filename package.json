@@ -1,0 +1,12 @@
+{
+  "name": "daikyo-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

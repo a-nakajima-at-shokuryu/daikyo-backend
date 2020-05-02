@@ -1,0 +1,5 @@
+node_modules/
+Pipfile.lock*
+yarn.lock*
+.env
+vscode.bat
